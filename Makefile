@@ -30,7 +30,7 @@ PRJSRC=sdlocker2.c uart.c
 AVRDUDE_PROGRAMMERID=avrftdi
 
 # F_CPU - Target AVR clock rate in Hertz
-F_CPU      = 8000000
+F_CPU      = 16000000
 
 # OBJECTS - The object files created from your source files. This list is
 #                usually the same as the list of source files with suffix ".o".
